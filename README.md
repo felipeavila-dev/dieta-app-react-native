@@ -15,7 +15,7 @@ No aplicativo, voce consegue:
 - <b> Styled Components </b>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/26674677/206923518-071fc20c-864b-4820-a19d-956dd02bb819.jpg" width='200' />
+  <img src="https://user-images.githubusercontent.com/26674677/206925184-89936f00-ad23-46a0-9c71-49808df30a64.jpg" width='200' />
   <img src="https://user-images.githubusercontent.com/26674677/206923832-263141a3-ce18-4236-86dc-7eb5eec91a5b.jpg" width='200' />
   <img src="https://user-images.githubusercontent.com/26674677/206923903-ad6039a4-0b44-4abf-ac7a-33a0e490c5eb.jpg" width='200' />
 </div>
